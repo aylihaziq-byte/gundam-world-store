@@ -1,0 +1,5 @@
+database.php
+*.log
+.vscode/
+.idea/
+.DS_Store
